@@ -1,7 +1,7 @@
-<h1>Projeto Testando a tag Display</h1>
+<h1>Projeto Testando a tag Form</h1>
 
 
-<h2>Decidi fazer este projeto após ver as aulas do <a href="https://plataforma.devclub.com.br/area/vitrine">Dev Club</a> sobre display </h2>
+<h2>Este foi o projeto que me introduziu na programação, aprendi atraves do meu mentor <a href="https://github.com/rodolfomori">Rodolfo Mori</a></h2>
 
 <h2>Tecnologias Usadas:</h2>
 
